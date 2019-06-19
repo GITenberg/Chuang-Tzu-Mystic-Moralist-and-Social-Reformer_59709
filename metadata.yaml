@@ -1,5 +1,5 @@
 _repo: Chuang-Tzu-Mystic-Moralist-and-Social-Reformer_59709
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Moore, Aubrey Lackington
@@ -15,12 +15,17 @@ contributor:
     gutenberg_agent_id: '814'
     url: http://www.gutenberg.org/2009/agents/814
     wikipedia: http://en.wikipedia.org/wiki/Herbert_Giles
+covers:
+- cover_type: archival
+  image_path: 59709-h/images/cover.jpg
 creator:
   author:
     agent_name: Tzu, Chuang
     gutenberg_agent_id: '50580'
     url: http://www.gutenberg.org/2009/agents/50580
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59709#Chuang-Tzu-Mystic-Moralist-and-Social-Reformer
 gutenberg_issued: '2019-06-09'
 gutenberg_type: Text
 identifiers:
